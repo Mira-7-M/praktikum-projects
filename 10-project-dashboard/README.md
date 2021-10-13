@@ -11,3 +11,7 @@
 - Tableau,   
 - построение дашбордов,  
 - продуктовые метрики.  
+
+Дашборд:
+https://public.tableau.com/app/profile/marina.m7895/viz/Yandex_Zen_Project/_?publish=yes
+
